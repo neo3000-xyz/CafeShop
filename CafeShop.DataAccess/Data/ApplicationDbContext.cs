@@ -1,7 +1,7 @@
-﻿using CafeShopWeb.Models;
+﻿using CafeShop.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CafeShopWeb.Data
+namespace CafeShop.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

@@ -1,5 +1,6 @@
-﻿using CafeShopWeb.Data;
-using CafeShopWeb.Models;
+﻿
+using CafeShop.DataAccess.Data;
+using CafeShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CafeShopWeb.Controllers
@@ -95,7 +96,6 @@ namespace CafeShopWeb.Controllers
             }
             _db.Categories.Remove(obj);
             _db.SaveChanges();
-            TempData["success"] = "Category deleted successfully";
             return RedirectToAction("Index");
         }
     }
