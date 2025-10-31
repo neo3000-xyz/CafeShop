@@ -3,6 +3,7 @@ using CafeShop.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CafeShop.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251031180254_addForeignKeyForCategoryProductRelation")]
+    partial class addForeignKeyForCategoryProductRelation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -77,10 +80,6 @@ namespace CafeShop.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<double>("ListPrice")
                         .HasColumnType("float");
 
@@ -117,7 +116,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 1,
                             CategoryId = 1,
                             Description = "Cà phê pha phin truyền thống với sữa đặc, vị đậm đà và béo ngậy.",
-                            ImageUrl = "",
                             ListPrice = 45000.0,
                             Name = "Cà phê sữa đá",
                             Price = 42000.0,
@@ -131,7 +129,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 2,
                             CategoryId = 2,
                             Description = "Trà đào tươi kết hợp cam vàng và sả, vị ngọt thanh mát.",
-                            ImageUrl = "",
                             ListPrice = 55000.0,
                             Name = "Trà đào cam sả",
                             Price = 52000.0,
@@ -145,7 +142,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 3,
                             CategoryId = 3,
                             Description = "Bánh ngọt kiểu Ý với lớp kem mascarpone mềm mịn và cacao thơm lừng.",
-                            ImageUrl = "",
                             ListPrice = 65000.0,
                             Name = "Bánh tiramisu",
                             Price = 62000.0,
@@ -159,7 +155,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 4,
                             CategoryId = 2,
                             Description = "Sự kết hợp tinh tế giữa vị ngọt của vải tươi và hương thơm quyến rũ của hoa hồng.",
-                            ImageUrl = "",
                             ListPrice = 59000.0,
                             Name = "Trà vải hoa hồng",
                             Price = 56000.0,
@@ -173,7 +168,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 5,
                             CategoryId = 2,
                             Description = "Trà trái cây tươi mát với ổi hồng chín mọng, mang đến hương vị ngọt dịu tự nhiên.",
-                            ImageUrl = "",
                             ListPrice = 57000.0,
                             Name = "Trà ổi hồng",
                             Price = 54000.0,
@@ -187,7 +181,6 @@ namespace CafeShop.DataAccess.Migrations
                             Id = 6,
                             CategoryId = 2,
                             Description = "Trà nhài kết hợp vị ngọt thanh của đào và ổi, mang hương thơm dịu nhẹ và sảng khoái.",
-                            ImageUrl = "",
                             ListPrice = 60000.0,
                             Name = "Trà nhài đào ổi",
                             Price = 57000.0,

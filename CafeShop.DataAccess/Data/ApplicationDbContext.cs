@@ -30,7 +30,9 @@ namespace CafeShop.DataAccess.Data
                         ListPrice = 45000,
                         Price = 42000,
                         Price50 = 40000,
-                        Price100 = 38000
+                        Price100 = 38000,
+                        CategoryId = 1,
+                        ImageUrl = ""
                     },
                     new Product
                     {
@@ -42,7 +44,9 @@ namespace CafeShop.DataAccess.Data
                         ListPrice = 55000,
                         Price = 52000,
                         Price50 = 50000,
-                        Price100 = 47000
+                        Price100 = 47000,
+                        CategoryId = 2,
+                        ImageUrl = ""
                     },
                      new Product
                      {
@@ -54,7 +58,9 @@ namespace CafeShop.DataAccess.Data
                          ListPrice = 65000,
                          Price = 62000,
                          Price50 = 60000,
-                         Price100 = 57000
+                         Price100 = 57000,
+                         CategoryId = 3,
+                         ImageUrl = ""
                      },
                      new Product
                      {
@@ -66,7 +72,9 @@ namespace CafeShop.DataAccess.Data
                          ListPrice = 59000,
                          Price = 56000,
                          Price50 = 54000,
-                         Price100 = 51000
+                         Price100 = 51000,
+                         CategoryId = 2,
+                         ImageUrl = ""
                      },
                       new Product
                       {
@@ -78,7 +86,9 @@ namespace CafeShop.DataAccess.Data
                           ListPrice = 57000,
                           Price = 54000,
                           Price50 = 52000,
-                          Price100 = 49000
+                          Price100 = 49000,
+                          CategoryId = 2,
+                          ImageUrl = ""
                       },
                       new Product
                       {
@@ -90,7 +100,9 @@ namespace CafeShop.DataAccess.Data
                           ListPrice = 60000,
                           Price = 57000,
                           Price50 = 55000,
-                          Price100 = 52000
+                          Price100 = 52000,
+                          CategoryId = 2,
+                          ImageUrl = ""
                       }
                 );
         }
