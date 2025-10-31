@@ -2,8 +2,9 @@ using System.Diagnostics;
 using CafeShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CafeShop.Controllers
+namespace CafeShopWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
