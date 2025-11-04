@@ -2,11 +2,14 @@
 using CafeShop.DataAccess.Data;
 using CafeShop.DataAccess.Repository.IRepository;
 using CafeShop.Models;
+using CafeShop.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CafeShopWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -3,6 +3,8 @@ using CafeShop.DataAccess.Data;
 using CafeShop.DataAccess.Repository.IRepository;
 using CafeShop.Models;
 using CafeShop.Models.ViewModels;
+using CafeShop.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
@@ -10,6 +12,7 @@ using System.Collections.Generic;
 namespace CafeShopWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
