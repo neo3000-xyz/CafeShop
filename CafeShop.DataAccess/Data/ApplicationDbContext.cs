@@ -24,6 +24,11 @@ namespace CafeShop.DataAccess.Data
                 new Category { Id = 2, Name = "Tea", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "Cookie", DisplayOrder = 3 }
                 );
+            modelBuilder.Entity<Company>().HasData(
+             new Company { Id = 1, Name = "Test Solution", StreetAddress = "448 Le Van Viet", City = "Test City", PostalCode = "2313", District = "District 9", PhoneNumber = "01234" },
+             new Company { Id = 2, Name = "Test2 Solution", StreetAddress = "448 Le Van Viet", City = "Test2 City", PostalCode = "23123", District = "District 9", PhoneNumber = "012344" },
+             new Company { Id = 3, Name = "Test3 Solution", StreetAddress = "448 Le Van Viet", City = "Test3 City", PostalCode = "23143", District = "District 9", PhoneNumber = "0123445" }
+             );
             modelBuilder.Entity<Product>().HasData(
                     new Product
                     {
