@@ -54,6 +54,7 @@ namespace CafeShopWeb.Areas.Customer.Controllers
             {
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
             }
+            TempData["success"] = "Cart updated successfully";
             //_unitOfWork.ShoppingCart.Add(shoppingCart);
             _unitOfWork.Save();
             //Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
