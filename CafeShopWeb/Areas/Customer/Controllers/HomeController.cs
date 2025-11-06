@@ -1,7 +1,9 @@
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Security.Claims;
 using CafeShop.DataAccess.Repository.IRepository;
 using CafeShop.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CafeShopWeb.Areas.Customer.Controllers
@@ -26,10 +28,37 @@ namespace CafeShopWeb.Areas.Customer.Controllers
 
         public IActionResult Details(int productId)
         {
-            Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
-            return View(product);
+            ShoppingCart cart = new()
+            {
+                Product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category"),
+                Count = 1,
+                ProductId = productId
+            };
+            //Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
+            return View(cart);
         }
-
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(ShoppingCart shoppingCart)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+            shoppingCart.ApplicationUserId = userId;
+            ShoppingCart cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.ApplicationUserId == userId && u.ProductId == shoppingCart.ProductId);
+            if (cartFromDb != null)
+            {
+                cartFromDb.Count += shoppingCart.Count;
+                _unitOfWork.ShoppingCart.Update(cartFromDb);
+            }
+            else
+            {
+                _unitOfWork.ShoppingCart.Add(shoppingCart);
+            }
+            //_unitOfWork.ShoppingCart.Add(shoppingCart);
+            _unitOfWork.Save();
+            //Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
+            return RedirectToAction("Index");
+        }
         public IActionResult Privacy()
         {
             return View();
