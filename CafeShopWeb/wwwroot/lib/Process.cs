@@ -1,0 +1,7987 @@
+﻿    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk =     < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+v < Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = "Microsoft.NET.Sdk.Web" >
+
+  < PropertyGroup >
+    < TargetFramework > net8.0 </ TargetFramework >
+    < Nullable > enable </ Nullable >
+    < ImplicitUsings > enable </ ImplicitUsings >
+  </ PropertyGroup >
+
+  < ItemGroup >
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.SqlServer" Version = "9.0.10" />
+    < PackageReference Include = "Microsoft.EntityFrameworkCore.Tools" Version = "9.0.10" >
+      < PrivateAssets > all </ PrivateAssets >
+      < IncludeAssets > runtime; build; native; contentfiles; analyzers; buildtransitive </ IncludeAssets >
+    </ PackageReference >
+  </ ItemGroup >
+
+</ Project >
+< Project Sdk = 
