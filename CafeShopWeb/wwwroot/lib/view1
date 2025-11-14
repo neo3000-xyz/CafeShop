@@ -2,30 +2,6 @@ using System;
 using System.IO;
 using System.Text;
 
-class Program
-{
-    static void Main()
-    {
-        string path = "view1.cs";
-        using (var writer = new StreamWriter(path, false, Encoding.UTF8))
-        {
-            writer.WriteLine("public class View1");
-            writer.WriteLine("{");
-
-            for (int i = 1; i <= 10000; i++)
-            {
-                writer.WriteLine($"    public void Method{i:D5}()");
-                writer.WriteLine("    {");
-                writer.WriteLine($"        // This is auto-generated method number {i}");
-                writer.WriteLine("    }");
-                writer.WriteLine();
-            }
-
-            writer.WriteLine("}");
-        }
-
-        Console.WriteLine("File view1.cs đã được tạo với 10.000 dòng!");
-    }
 }
 
   using System;
